@@ -24,7 +24,6 @@
 <a href="https://linkedin.com/in/pretom-das-28833818b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pretom-das-28833818b" height="30" width="40" /></a>
 </p>
 </br>
-<p><img src="4380747.jpg" height="600" width="1000" /> </p>
 
 
 
